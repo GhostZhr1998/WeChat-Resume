@@ -1,0 +1,65 @@
+<!--修改照片直链或者使用本地照片路径为../../image/***-->
+<image src= "https://gitee.com/GhostZhr1998/resume-of-wechat-mini-program/raw/master/Image/HaiQinYan.png" mode="widthFix"/>
+
+<view class="title">基本信息</view>
+<view class="jbxx">姓名：海琴烟</view>
+<view class="jbxx">民族：羽族</view>
+<view class="jbxx">性别：女</view>
+<view class="jbxx">出生日期：诺拉历 181年</view>
+<view class="jbxx">身高：165 cm</view>
+<view class="jbxx">籍贯：羽族王国</view>
+<view class="jbxx">政治面貌：王族</view>
+<view class="jbxx">毕业院校：羽国贵族学院</view>
+<view class="jbxx">学历：本科</view>
+<view class="jbxx">电话：***********</view>
+<view class="jbxx">邮箱：****************</view>
+
+<view class="title">教育背景</view>
+<view class="jbxx">时间：*****~*****</view>
+<view class="jbxx">院校名称：********</view>
+<view class="jbxx">所学专业：********</view>
+<view class="jbxx">学历：****</view>
+<view class="jbxx">主要课程：****、***、***、***、***、***、***、***、***</view>
+<view class="jbxx">-------------------------------------------------</view>
+<view class="jbxx">时间：*****~*****</view>
+<view class="jbxx">院校名称：********</view>
+<view class="jbxx">所学专业：********</view>
+<view class="jbxx">学历：****</view>
+<view class="jbxx">主要课程：****、***、***、***、***、***、***、***、***</view>
+<view class="title">实习经历</view>
+<view class="jbxx">时间：*****~*****</view>
+<view class="jbxx">单位名称：********</view>
+<view class="jbxx">岗位：********</view>
+<!--在序号①②③后写内容-->
+<view class="jbxx">岗位职责：①</view>
+<view class="jbxx"><text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②</text></view>
+<view class="jbxx"><text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③</text></view>
+
+<view class="title">校园实践</view>
+<view class="jbxx">时间：*****~*****</view>
+<view class="jbxx">任职地点：*****</view>
+<view class="jbxx">职务：*****</view>
+<view class="jbxx">-------------------------------------------------</view>
+<view class="jbxx">时间：*****~*****</view>
+<view class="jbxx">任职地点：*****</view>
+<view class="jbxx">职务：*****</view>
+
+<view class="title">所获奖项</view>
+<view class="jbxx">时间：********</view>
+<view class="jbxx">级别：*****</view>
+<view class="jbxx">名称：*****</view>
+<view class="jbxx">-------------------------------------------------</view>
+<view class="jbxx">时间：********</view>
+<view class="jbxx">级别：*****</view>
+<view class="jbxx">名称：*****</view>
+<view class="jbxx">-------------------------------------------------</view>
+<view class="jbxx">时间：********</view>
+<view class="jbxx">级别：*****</view>
+<view class="jbxx">名称：*****</view>
+<view class="jbxx">-------------------------------------------------</view>
+<view class="jbxx">时间：********</view>
+<view class="jbxx">级别：*****</view>
+<view class="jbxx">名称：*****</view>
+
+<view class="title">自我评价</view>
+<view class="jbxx"><text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;&nbsp;********************************************************************************************************************************************************</text></view>
